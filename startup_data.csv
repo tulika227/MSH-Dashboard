@@ -1,0 +1,27 @@
+Startup,Year,Funding(Million$),Employees,Revenue(Million$),Region,Innovation_Score,Program
+TechNova,2021,4.5,22,3.1,Bangalore,81,MSH Ignite
+HealthPlus,2021,2.8,15,2.0,Delhi,75,MSH Accelerator
+GreenSpark,2021,5.0,30,4.2,Mumbai,84,MSH Ignite
+AgriBoost,2021,3.5,25,2.5,Hyderabad,79,MSH Growth
+FinEdge,2021,6.2,28,4.9,Delhi,88,MSH Accelerator
+TechNova,2022,5.2,30,4.0,Bangalore,85,MSH Ignite
+HealthPlus,2022,3.1,20,2.8,Delhi,78,MSH Accelerator
+GreenSpark,2022,7.8,45,5.5,Mumbai,91,MSH Ignite
+EduNext,2022,4.5,25,3.6,Pune,83,MSH Growth
+AgriBoost,2022,6.0,40,4.4,Hyderabad,88,MSH Growth
+RoboWave,2023,8.3,55,7.2,Bangalore,92,MSH Ignite
+FinEdge,2023,9.5,60,7.8,Delhi,89,MSH Accelerator
+EcoLogic,2023,7.1,48,6.5,Mumbai,90,MSH Growth
+MediLink,2023,5.4,35,4.9,Chennai,83,MSH Ignite
+DataX,2023,4.9,30,3.8,Hyderabad,80,MSH Accelerator
+HealthPlus,2024,4.8,28,3.9,Delhi,84,MSH Accelerator
+TechNova,2024,6.5,35,5.2,Bangalore,90,MSH Ignite
+EcoLogic,2024,8.2,52,7.1,Mumbai,93,MSH Growth
+FinEdge,2024,10.1,65,8.6,Delhi,92,MSH Accelerator
+AgriBoost,2024,7.2,42,5.5,Hyderabad,87,MSH Growth
+GreenSpark,2024,9.0,58,7.9,Mumbai,94,MSH Ignite
+TechNova,2025,9.3,45,8.2,Bangalore,96,MSH Ignite
+FinEdge,2025,11.4,72,9.8,Delhi,95,MSH Accelerator
+EcoLogic,2025,10.2,60,9.3,Mumbai,94,MSH Growth
+AgriBoost,2025,8.9,50,8.1,Hyderabad,92,MSH Growth
+GreenSpark,2025,9.8,62,8.7,Mumbai,95,MSH Ignite
