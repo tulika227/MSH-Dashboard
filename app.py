@@ -10,7 +10,7 @@ st.markdown("Gain insights into startup performance, funding, and innovation tre
 # Load Data
 @st.cache_data
 def load_data():
-    df = pd.read_csv("C:\\Users\\Tulika Srivastava\\OneDrive\\Attachments\\Desktop\\MSH_Project\\startup_data.csv")
+    df = pd.read_csv("startup_data.csv")
     return df
 
 df = load_data()
@@ -61,3 +61,4 @@ st.dataframe(filtered_df)
 
 st.markdown("Insights")
 st.info("Startups in 2025 show record innovation and funding growth — especially in programs under *MSH Ignite* and *MSH Accelerator* initiatives.")
+
